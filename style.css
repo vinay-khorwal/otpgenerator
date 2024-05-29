@@ -1,0 +1,13 @@
+.btn{
+    background-color: sandybrown;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#showOTP{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+}
